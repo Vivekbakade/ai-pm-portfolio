@@ -37,7 +37,7 @@ ai-pm-portfolio/
 
 ##  Case Studies
 
-### 1. [AI Diagnostic Assistant for Rural India](./case-studies/case-study-1-rural-health-ai.md)
+### 1. [AI Diagnostic Assistant for Rural India](./case-study-1-rural-health-ai.md)
 **Domain:** HealthTech | B2G | Bharat Market
 **Type:** New Product Design (0→1)
 
@@ -47,7 +47,7 @@ Designed "NivaaranAI" — an offline-first AI diagnostic co-pilot for ASHA worke
 
 
 
-### 2.  [Redesigning Zomato's AI Recommendation Engine](./case-studies/case-study-2-zomato-contextrec.md)
+### 2.  [Redesigning Zomato's AI Recommendation Engine](./case-study-2-zomato-contextrec.md)
 **Domain:** FoodTech | Consumer Product | AI Personalization
 **Type:** Product Teardown + Feature Redesign
 
@@ -57,7 +57,7 @@ Identified root cause of low recommendation relevance on Zomato using 5-Why anal
 
 
 
-### 3.  [SolvAI — AI Study Assistant for Engineering Students](./case-studies/case-study-3-solvai-edtech.md)
+### 3.  [SolvAI — AI Study Assistant for Engineering Students](./case-study-3-solvai-edtech.md)
 **Domain:** EdTech | SaaS | India Engineering Market
 **Type:** New Product (0→1) with Full Business Model
 
