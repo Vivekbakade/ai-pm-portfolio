@@ -1,4 +1,4 @@
-# 🎯 PRD: LinkedIn AI Job Match — Redesigning Job Recommendations for Indian Freshers
+# PRD: LinkedIn AI Job Match — Redesigning Job Recommendations for Indian Freshers
 ### Product Management Case Study | Career Tech | Feature Redesign
 
 > **Domain:** Career Tech | AI Personalization | India Fresher Market
@@ -8,18 +8,21 @@
 
 ---
 
-## ⭐ STAR Summary *(Resume-Ready)*
+## STAR Summary *(Resume-Ready)*
 
-| | |
-|---|---|
+
+
 | **S — Situation** | 8M+ Indian engineering freshers use LinkedIn to find jobs, but the job recommendation algorithm is built for experienced professionals — showing irrelevant senior roles, requiring 2-5 years experience, and completely ignoring India-specific career contexts like tier-2 colleges, CGPA, and skill certifications. 72% of freshers report applying to 50+ jobs with less than 5% callback rate. |
+
 | **T — Task** | Redesign LinkedIn's job recommendation engine specifically for Indian freshers — making it context-aware, skills-first, and actionable within their actual constraints (0 experience, tier-2 college, 6-8 CGPA). |
+
 | **A — Action** | Conducted pain point analysis, defined 3 user personas, wrote full PRD for "LinkedIn AI Job Match" — an AI layer that understands fresher context, skills signals, and India-specific hiring patterns to surface relevant internships and entry-level roles. |
+
 | **R — Result** | Proposed feature projected to increase fresher application-to-callback rate from 5% to 18%+, reduce job search time from 4 months to 6 weeks, and increase LinkedIn DAU among Indian students by 35%. |
 
 ---
 
-## 🔍 Problem Statement
+##  Problem Statement
 
 ### The Numbers Don't Lie
 
@@ -56,7 +59,7 @@ Root Cause: LinkedIn has no dedicated AI layer for the fresher/intern job market
 
 ---
 
-## 👥 User Personas
+##  User Personas
 
 | Persona | Profile | Job Search Goal | Current Pain |
 |---|---|---|---|
@@ -66,7 +69,7 @@ Root Cause: LinkedIn has no dedicated AI layer for the fresher/intern job market
 
 ---
 
-## 💡 Proposed Solution: "LinkedIn AI Job Match"
+##  Proposed Solution: "LinkedIn AI Job Match"
 
 ### One-Line Pitch
 > *LinkedIn AI Job Match is a context-aware recommendation layer that understands who an Indian fresher actually is — not just what their resume says — and surfaces roles they can realistically get.*
@@ -85,7 +88,7 @@ Root Cause: LinkedIn has no dedicated AI layer for the fresher/intern job market
 
 ---
 
-## 📋 Product Requirements Document (PRD)
+##  Product Requirements Document (PRD)
 
 **Product Name:** LinkedIn AI Job Match
 **Feature Owner:** AI Job Recommendations Team
@@ -133,10 +136,10 @@ Instead of experience-years matching, the algorithm matches:
 Before applying, user sees:
 ```
 Match Score: 78%
-✅ Skills match: Python, SQL, Data Analytics
-✅ Role level: Entry level — matches your profile
-⚠️ Missing: Tableau (mentioned in JD)
-💡 Tip: Add your Kaggle project to improve match
+ Skills match: Python, SQL, Data Analytics
+ Role level: Entry level — matches your profile
+ Missing: Tableau (mentioned in JD)
+ Tip: Add your Kaggle project to improve match
 ```
 
 **5. Gap Nudge**
@@ -203,7 +206,7 @@ Output:
 
 ---
 
-## 📊 Success Metrics & KPIs
+## Success Metrics & KPIs
 
 | Metric | Current Baseline | V1 Target | Measurement |
 |---|---|---|---|
@@ -231,7 +234,7 @@ Success: 2x improvement in callback rate, p-value < 0.05
 
 ---
 
-## 🗺️ Product Roadmap
+##  Product Roadmap
 
 ### V1 — Skills-First Matching (Q3 2025)
 - Fresher context detection
@@ -256,7 +259,7 @@ Success: 2x improvement in callback rate, p-value < 0.05
 
 ---
 
-## ⚠️ Risks & Mitigation
+##  Risks & Mitigation
 
 | Risk | Severity | Mitigation |
 |---|---|---|
@@ -268,7 +271,7 @@ Success: 2x improvement in callback rate, p-value < 0.05
 
 ---
 
-## 💰 Business Case for LinkedIn
+##  Business Case for LinkedIn
 
 ### Why LinkedIn Should Build This
 
@@ -291,7 +294,7 @@ Post AI Job Match:
 
 ---
 
-## 🔑 Key PM Learnings
+##  Key PM Learnings
 
 1. **The user is not the customer** — freshers are the users, recruiters are the customers. The feature must serve both or it fails
 2. **India ≠ Global** — LinkedIn's global algorithm is blind to India-specific signals (tier-2 colleges, CGPA culture, certificate-heavy resumes)
@@ -301,11 +304,11 @@ Post AI Job Match:
 
 ---
 
-## 📎 Links
-- 🔗 [GitHub Portfolio](https://github.com/Vivekbakade)
-- 🔗 [Case Study: NivaaranAI — Rural Health](./case-study-1-rural-health-ai.md)
-- 🔗 [Case Study: Zomato ContextRec](./case-study-2-zomato-contextrec.md)
-- 🔗 [Case Study: SolvAI EdTech](./case-study-3-solvai-edtech.md)
+##  Links
+- [GitHub Portfolio](https://github.com/Vivekbakade)
+- [Case Study: NivaaranAI — Rural Health](./case-study-1-rural-health-ai.md)
+- [Case Study: Zomato ContextRec](./case-study-2-zomato-contextrec.md)
+- [Case Study: SolvAI EdTech](./case-study-3-solvai-edtech.md)
 
 ---
 
