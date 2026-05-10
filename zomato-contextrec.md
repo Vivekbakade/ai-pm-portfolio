@@ -3,7 +3,7 @@
 
 CASE STUDY = https://drive.google.com/file/d/1G5wDJXtM7Vu4R_lCH-yUOQ3HXZPeS9ef/view?usp=drive_link
 
-PRD = https://drive.google.com/file/d/1xtTsD8IrOzRDQdWZ8u-Y_lXYKPl8yb15/view?usp=drive_link
+PRD = https://drive.google.com/file/d/1erJj1xNHrlOIu-h8TCQdYxQ1HzbJwEMY/view?usp=drive_link
 
 > **Domain:** FoodTech | AI Personalization | Consumer Product
 > **Role Simulated:** AI Product Manager
