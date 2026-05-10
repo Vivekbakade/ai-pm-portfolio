@@ -25,7 +25,7 @@ Designed "NivaaranAI" — an offline-first AI diagnostic co-pilot for ASHA worke
 
 
 
-### 2.  [Redesigning Zomato's AI Recommendation Engine](./case-study-2-zomato-contextrec.md)
+### 2.  [Redesigning Zomato's AI Recommendation Engine](zomato-contextrec.md)
 **Domain:** FoodTech | Consumer Product | AI Personalization
 **Type:** Product Teardown + Feature Redesign
 
