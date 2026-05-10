@@ -3,6 +3,8 @@
 
 CASE STUDY = https://drive.google.com/file/d/1SUO3DUn7lV5BaJ6Sg_5b05keUmovkd07/view?usp=drive_link
 
+PRD = https://drive.google.com/file/d/1erJj1xNHrlOIu-h8TCQdYxQ1HzbJwEMY/view?usp=drive_link
+
 > **Domain:** HealthTech | AI Diagnostics | Bharat (Tier-2/3 Markets)
 > **Role Simulated:** AI Product Manager
 > **Type:** New Product Concept
